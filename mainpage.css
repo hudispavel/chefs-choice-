@@ -1,0 +1,16 @@
+.center
+{
+    margin:0 auto;
+    width:75%;
+    text-align: center;
+    position: relative; top:16%;
+}
+#hooray-alert
+{
+display:none;
+}
+h1{
+color: #2449d0;
+    font-family: cursive;
+    font-weight: bold;
+}
